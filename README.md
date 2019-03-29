@@ -10,11 +10,9 @@
 
 
 
-### 强国更行了大更新，积分规则等变化，强国文章接口等都被修改了程序暂时无法使用，周末会修复，请耐心等待。
+## 已紧急修复不能使用的问题，windows已上传
 
-# 文档龟速更新中，源码以上传，请大家指正及贡献，同时也请遵守开源协议
-
-#### 2.0预览已知有些小问题，但不影响使用，包括但不限于视频学习显示复数等，我会根据你们iseeues提交的问题慢慢排查，也恳请有能力之士查看源码pull你们的改进方法，人人为我，我为人人。若2.0特殊原因无法正常使用可以继续使用1.8版本过度
+# 文档龟速更新中，源码以上传，请大家指正及贡献。
 
 
 
@@ -38,7 +36,7 @@
 
 ## 使用方法
 
-2.0 使用方法：首次登陆需要输入并保存用户标记(标记用于区分本地用户以及保存学习历史纪录)，然后根据需要选择扫描或者钉钉账号密码登陆，若保存了账户密码，以后每次只需输入用户标记即可自动学习。
+2.0以上版本 使用方法：首次登陆需要输入并保存用户标记(标记用于区分本地用户以及保存学习历史纪录)，然后根据需要选择扫描或者钉钉账号密码登陆，若保存了账户密码，以后每次只需输入用户标记即可自动学习。
 
 - 高级用法，终端运行` pandalearning ` 然后输入参数各参数用空格分开，
 
@@ -102,7 +100,9 @@
 
 ## 更新说明
 ### 更新记得同步你的user文件信息，不然可能会学习重复文章视频
-
+- v 2.1(preview) 
+  - 针对学习强国更新，紧急修复不能使用问题
+  
 - v 2.0(preview) 
   - 很多更新，慢慢写说明
 
@@ -123,15 +123,15 @@
 
 ## **下载地址**
 
-## [win64位(61.4M)](https://github.com/Alivon/Panda-Learning/raw/master/Panda_Learning_win64.7z)  
 
-## [win32位(58.5M)](https://github.com/Alivon/Panda-Learning/raw/master/Panda_learning-win32.7z)
+
+## [windows平台通用V2.1](https://github.com/Alivon/Panda-Learning/raw/master/Panda_learning-32.7z)
 
 ------
 
+mac稍后上传
 
-
-## [macos版本(12.9M)](https://github.com/Alivon/Panda-Learning/raw/master/Panda_learning-mac.zip)
+## 
 
 ###### [macos浏览器](https://github.com/Alivon/Panda-Learning/raw/mac/pandalearning-mac/googlechrome.dmg)
 
@@ -139,7 +139,7 @@
 
 
 
-## [linux版本(11.3M)](https://github.com/Alivon/Panda-Learning/raw/master/Panda_learning.tar.gz) 
+linux稍后上传
 
 ###### [linux浏览器下载rpm（适用于 Fedora/openSUSE)](https://github.com/Alivon/Panda-Learning/blob/linux/pandalearning-linux/google-chrome-stable_current_x86_64.rpm?raw=true)
 
@@ -149,11 +149,11 @@
 
 #### windows旧版本
 
-###### [windows1.8旧版](https://github.com/Alivon/Panda-Learning/raw/master/pandalearning-window-1.8.7z)（同时支持win32和win64）
+###### [~~windows1.8旧版](https://github.com/Alivon/Panda-Learning/raw/master/pandalearning-window-1.8.7z)（同时支持win32和win64）~~
 
-###### [macos1.8旧版(12.9M)](https://github.com/Alivon/Panda-Learning/raw/mac/pandalearning-mac/pandalearning-mac.zip)
+###### ~~[macos1.8旧版(12.9M)](https://github.com/Alivon/Panda-Learning/raw/mac/pandalearning-mac/pandalearning-mac.zip)~~
 
-###### [linux1.6旧版(11.1M)](https://github.com/Alivon/Panda-Learning/raw/linux/pandalearning-linux/pandalearning-linux.zip)
+###### ~~[linux1.6旧版(11.1M)~~](https://github.com/Alivon/Panda-Learning/raw/linux/pandalearning-linux/pandalearning-linux.zip)
 
 
 
@@ -178,6 +178,4 @@ windous有可能提示`无法定位程序输入点ucrtbase.terminate于动态链
 
 源码
 
-[1.8源码](https://github.com/Alivon/Panda-Learning/blob/master/Source%20Packages/pandalearn_old.py)
-
-[2.0源码](https://github.com/Alivon/Panda-Learning/raw/master/Source%20Packages/Source%20Packages.7z)
+[2.0源码](<https://github.com/Alivon/Panda-Learning/tree/master/Source%20Packages>)
